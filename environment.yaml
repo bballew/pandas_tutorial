@@ -1,0 +1,10 @@
+name: pandas_class
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - pandas
